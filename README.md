@@ -20,7 +20,7 @@ Before you follow the remaining instructions, ensure you have the following inst
 
 - [`Node`](https://nodejs.org/en/) latest lts (ie: lts/gallium) version e.g. via [NVM](https://github.com/nvm-sh/nvm).
 
-1. Clone this repo via SSH and open the directory: `git clone https://github.com/mono-chrome/tfg-code-challenge.git && cd tfg-code-challenge`
+1. Clone this repo and open the directory: `git clone https://github.com/mono-chrome/jfb-code-challenge.git && cd tfg-code-challenge`
 2. Create a new branch off `main` called `development-<CURRENT DATE>` to do your work.
 3. Run `npm install`.
 4. Run `npm start` to start the application
